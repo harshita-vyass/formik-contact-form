@@ -1,6 +1,4 @@
-import logo from './logo.svg';
 import './App.css';
-import form from './components/BasicForm'
 import BasicForm from './components/BasicForm';
 
 
